@@ -7,7 +7,7 @@ class Navigation extends Component {
             <Navbar>
             <Navbar.Header>
               <Navbar.Brand>
-                <a href="#" className="favicon">S</a>
+                <a href="index.html" className="favicon">S</a>
               </Navbar.Brand>
               <Navbar.Toggle />
             </Navbar.Header>    

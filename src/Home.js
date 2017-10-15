@@ -7,7 +7,7 @@ import Skills from './Skills';
 class Home extends React.Component {
     render() {
         return (
-            <div>
+            <div id="home">
                 <Navigation />
                 <Hero />
                 <UserDetails />
