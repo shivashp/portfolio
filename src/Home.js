@@ -3,6 +3,7 @@ import Navigation from './Navigation';
 import Hero from './Hero';
 import UserDetails from './UserDetails';
 import Skills from './Skills';
+import Works from './Works';
 
 class Home extends React.Component {
     render() {
@@ -12,6 +13,7 @@ class Home extends React.Component {
                 <Hero />
                 <UserDetails />
                 <Skills />
+                <Works />
             </div>            
         )
     }

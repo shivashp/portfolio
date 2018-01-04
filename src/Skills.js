@@ -49,8 +49,7 @@ class Skills extends Component {
 }
 
 
-const Skill = (props) => {
-  console.log("PROPS: ", props);
+const Skill = (props) => {  
 	return (
 		<div className="col-md-6">
 			<div className="skill">

@@ -13,7 +13,7 @@ class Navigation extends Component {
             </Navbar.Header>    
             <Navbar.Collapse>
                 <Nav pullRight>
-                    <NavItem eventKey={1} href="#">Blog</NavItem>
+                    <NavItem eventKey={1} href="https://medium.com/@shivapandey04">Blog</NavItem>
                     <NavItem eventKey={2} href="#">Contact</NavItem>              
                 </Nav>
             </Navbar.Collapse>                    
